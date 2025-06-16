@@ -69,7 +69,8 @@ To use this app:
 2. Follow the prompts to set your criteria.
 3. A secure, random password will be generated and displayed.
 
-> You can try it live 
+> You can try it live here: https://duweri.github.io/Password-Generator-Website-/
+> 
 
 ---
 
